@@ -1,0 +1,83 @@
+h1 {
+    color: aqua;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: teal;
+}
+
+h2 {
+    color: rgb(100, 45, 545);
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange; 
+    text-align: center;
+}
+
+h3 {
+    color: hsla(12, 96%, 42%, 0.5);
+}
+
+.blue-text {
+    color: blue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: whitesmoke; 
+    text-align: center;
+}
+
+.dark-blue {
+    color: darkblue;
+    text-align: center;
+}
+
+.red-text {
+    color: red;
+}
+
+.purple-text {
+    color: rgb(83, 0, 138);
+    text-align: center;
+}
+
+.yellow-text {
+    color: yellow;
+}
+
+.gray-text {
+    color: gray;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-figcap {
+    text-align: center;
+}
+
+.center-figcap-aqua {
+    color: aqua;
+    text-align: center;
+}
+
+.center-figcap-light-blue {
+    color: lightblue;
+    text-align: center;
+}
+
+.centered-link {
+    display: block;
+    text-align: center;
+}
+
+.bold {
+    font-style: oblique;
+}
